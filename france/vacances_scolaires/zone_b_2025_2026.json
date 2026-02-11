@@ -7,28 +7,28 @@
     {
       "libelle": "Vacances de la Toussaint",
       "dateDebut": "20251018",
-      "dateFin": "20251103",
+      "dateFin": "20251102",
       "couleur": -26624,
       "chome": false
     },
     {
       "libelle": "Vacances de Noël",
       "dateDebut": "20251220",
-      "dateFin": "20260105",
+      "dateFin": "20260104",
       "couleur": -769226,
       "chome": false
     },
     {
       "libelle": "Vacances d'hiver",
       "dateDebut": "20260214",
-      "dateFin": "20260302",
+      "dateFin": "20260301",
       "couleur": -14575885,
       "chome": false
     },
     {
       "libelle": "Vacances de printemps",
       "dateDebut": "20260411",
-      "dateFin": "20260427",
+      "dateFin": "20260426",
       "couleur": -11751600,
       "chome": false
     },
