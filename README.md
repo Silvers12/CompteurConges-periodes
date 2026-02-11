@@ -8,11 +8,23 @@ Dans l'application CompteurConges :
 1. Aller dans **Périodes spéciales**
 2. Appuyer sur **Importer**
 3. Choisir **Depuis le serveur**
-4. Sélectionner le fichier souhaité
+4. Sélectionner le pays, la catégorie, puis le fichier souhaité
+
+## Structure
+
+```
+├── index.json
+├── france/
+│   └── vacances_scolaires/
+│       ├── zone_a_2026_2027.json
+│       ├── zone_b_2026_2027.json
+│       └── zone_c_2026_2027.json
+└── ...
+```
 
 ## Fichiers disponibles
 
-### Vacances scolaires 2026-2027
+### France - Vacances scolaires 2026-2027
 
 | Fichier | Zone | Académies |
 |---------|------|-----------|
@@ -23,6 +35,35 @@ Dans l'application CompteurConges :
 Source : [Arrêté du 22 octobre 2025 - Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052416058)
 
 ## Format JSON
+
+### Index (`index.json`)
+
+```json
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "France",
+      "icon": "🇫🇷",
+      "subcategories": [
+        {
+          "name": "Vacances Scolaires",
+          "files": [
+            {
+              "name": "Zone A 2026-2027",
+              "filename": "france/vacances_scolaires/zone_a_2026_2027.json",
+              "description": "Besançon, Bordeaux, Lyon...",
+              "count": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+### Fichier de périodes
 
 ```json
 {
@@ -60,24 +101,10 @@ Source : [Arrêté du 22 octobre 2025 - Légifrance](https://www.legifrance.gouv
 | `couleur` | int | Couleur Android (ARGB signé, ex: `-26624` = orange) |
 | `chome` | boolean | `true` si la période est chômée |
 
-### Index (`index.json`)
-
-```json
-{
-  "files": [
-    {
-      "name": "Nom affiché",
-      "filename": "nom_du_fichier.json",
-      "description": "Description",
-      "count": 6
-    }
-  ]
-}
-```
-
 ## Contribuer
 
 Pour ajouter de nouvelles périodes :
-1. Créer un fichier JSON respectant le format ci-dessus
-2. Ajouter l'entrée correspondante dans `index.json`
-3. Soumettre une Pull Request
+1. Créer un dossier `pays/categorie/` si nécessaire
+2. Créer un fichier JSON respectant le format ci-dessus
+3. Ajouter l'entrée correspondante dans `index.json`
+4. Soumettre une Pull Request
