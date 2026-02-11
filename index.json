@@ -29,6 +29,86 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Deutschland",
+      "icon": "🇩🇪",
+      "subcategories": [
+        {
+          "name": "Schulferien",
+          "files": [
+            {
+              "name": "Bayern 2026-2027",
+              "filename": "deutschland/schulferien/bayern_2026_2027.json",
+              "description": "Offizielle Ferientermine des Freistaats Bayern",
+              "count": 6
+            },
+            {
+              "name": "Nordrhein-Westfalen 2026-2027",
+              "filename": "deutschland/schulferien/nrw_2026_2027.json",
+              "description": "Offizielle Ferientermine NRW",
+              "count": 4
+            },
+            {
+              "name": "Baden-Württemberg 2026-2027",
+              "filename": "deutschland/schulferien/baden_wuerttemberg_2026_2027.json",
+              "description": "Offizielle Ferientermine Baden-Württemberg",
+              "count": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "icon": "🇬🇧",
+      "subcategories": [
+        {
+          "name": "School Holidays",
+          "files": [
+            {
+              "name": "England 2026-2027",
+              "filename": "england/school_holidays/england_2026_2027.json",
+              "description": "Typical term dates (may vary by local authority)",
+              "count": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italia",
+      "icon": "🇮🇹",
+      "subcategories": [
+        {
+          "name": "Vacanze Scolastiche",
+          "files": [
+            {
+              "name": "Italia 2026-2027",
+              "filename": "italia/vacanze_scolastiche/italia_2026_2027.json",
+              "description": "Date nazionali indicative (variano per regione)",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "España",
+      "icon": "🇪🇸",
+      "subcategories": [
+        {
+          "name": "Vacaciones Escolares",
+          "files": [
+            {
+              "name": "España 2026-2027",
+              "filename": "espana/vacaciones_escolares/espana_2026_2027.json",
+              "description": "Fechas nacionales indicativas (varían por comunidad autónoma)",
+              "count": 3
+            }
+          ]
+        }
+      ]
     }
   ]
 }

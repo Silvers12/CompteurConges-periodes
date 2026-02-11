@@ -1,0 +1,50 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "School Holidays England 2026-2027",
+  "description": "Typical term dates for England (may vary by local authority)",
+  "periodes": [
+    {
+      "libelle": "Autumn Half-Term",
+      "dateDebut": "20261026",
+      "dateFin": "20261030",
+      "couleur": -26624,
+      "chome": false
+    },
+    {
+      "libelle": "Christmas Holidays",
+      "dateDebut": "20261219",
+      "dateFin": "20270103",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "February Half-Term",
+      "dateDebut": "20270215",
+      "dateFin": "20270219",
+      "couleur": -14575885,
+      "chome": false
+    },
+    {
+      "libelle": "Easter Holidays",
+      "dateDebut": "20270326",
+      "dateFin": "20270409",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "May Half-Term",
+      "dateDebut": "20270531",
+      "dateFin": "20270604",
+      "couleur": -6543440,
+      "chome": false
+    },
+    {
+      "libelle": "Summer Holidays",
+      "dateDebut": "20270722",
+      "dateFin": "20270831",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}

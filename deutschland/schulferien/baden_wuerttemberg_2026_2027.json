@@ -1,0 +1,43 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "Schulferien Baden-Württemberg 2026-2027",
+  "description": "Offizielle Ferientermine Baden-Württemberg",
+  "periodes": [
+    {
+      "libelle": "Herbstferien",
+      "dateDebut": "20261026",
+      "dateFin": "20261030",
+      "couleur": -26624,
+      "chome": false
+    },
+    {
+      "libelle": "Weihnachtsferien",
+      "dateDebut": "20261223",
+      "dateFin": "20270109",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "Osterferien",
+      "dateDebut": "20270330",
+      "dateFin": "20270403",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "Pfingstferien",
+      "dateDebut": "20270518",
+      "dateFin": "20270529",
+      "couleur": -6543440,
+      "chome": false
+    },
+    {
+      "libelle": "Sommerferien",
+      "dateDebut": "20270729",
+      "dateFin": "20270911",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}

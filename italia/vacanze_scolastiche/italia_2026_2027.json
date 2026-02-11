@@ -1,0 +1,36 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "Vacanze Scolastiche Italia 2026-2027",
+  "description": "Date nazionali indicative (le date esatte variano per regione)",
+  "periodes": [
+    {
+      "libelle": "Vacanze di Natale",
+      "dateDebut": "20261223",
+      "dateFin": "20270106",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "Carnevale",
+      "dateDebut": "20270208",
+      "dateFin": "20270210",
+      "couleur": -14575885,
+      "chome": false
+    },
+    {
+      "libelle": "Vacanze di Pasqua",
+      "dateDebut": "20270325",
+      "dateFin": "20270330",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "Vacanze estive",
+      "dateDebut": "20270610",
+      "dateFin": "20270914",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}
