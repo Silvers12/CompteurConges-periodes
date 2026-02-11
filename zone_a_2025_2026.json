@@ -1,0 +1,15 @@
+{
+    "format": "CompteurConges_PeriodesSpeciales",
+    "version": 1,
+    "name": "Vacances Scolaires Zone A 2025-2026",
+    "description": "Calendrier officiel de l'Education Nationale",
+    "periodes": [
+      {
+        "libelle": "Vacances de la Toussaint",
+        "dateDebut": "20251018",
+        "dateFin": "20251103",
+        "couleur": -16776961,
+        "chome": false
+      }
+    ]
+  }
