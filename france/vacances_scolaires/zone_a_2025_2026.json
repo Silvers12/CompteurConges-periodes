@@ -1,0 +1,43 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "Vacances Scolaires Zone A 2025-2026",
+  "description": "Calendrier officiel - Besançon, Bordeaux, Clermont-Ferrand, Dijon, Grenoble, Limoges, Lyon, Poitiers",
+  "periodes": [
+    {
+      "libelle": "Vacances de la Toussaint",
+      "dateDebut": "20251018",
+      "dateFin": "20251103",
+      "couleur": -26624,
+      "chome": false
+    },
+    {
+      "libelle": "Vacances de Noël",
+      "dateDebut": "20251220",
+      "dateFin": "20260105",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "Vacances d'hiver",
+      "dateDebut": "20260207",
+      "dateFin": "20260223",
+      "couleur": -14575885,
+      "chome": false
+    },
+    {
+      "libelle": "Vacances de printemps",
+      "dateDebut": "20260404",
+      "dateFin": "20260420",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "Vacances d'été",
+      "dateDebut": "20260704",
+      "dateFin": "20260831",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}

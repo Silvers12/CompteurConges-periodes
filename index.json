@@ -9,6 +9,24 @@
           "name": "Vacances Scolaires",
           "files": [
             {
+              "name": "Zone A 2025-2026",
+              "filename": "france/vacances_scolaires/zone_a_2025_2026.json",
+              "description": "Besançon, Bordeaux, Clermont-Ferrand, Dijon, Grenoble, Limoges, Lyon, Poitiers",
+              "count": 5
+            },
+            {
+              "name": "Zone B 2025-2026",
+              "filename": "france/vacances_scolaires/zone_b_2025_2026.json",
+              "description": "Aix-Marseille, Amiens, Lille, Nancy-Metz, Nantes, Nice, Normandie, Orléans-Tours, Reims, Rennes, Strasbourg",
+              "count": 5
+            },
+            {
+              "name": "Zone C 2025-2026",
+              "filename": "france/vacances_scolaires/zone_c_2025_2026.json",
+              "description": "Créteil, Montpellier, Paris, Toulouse, Versailles",
+              "count": 5
+            },
+            {
               "name": "Zone A 2026-2027",
               "filename": "france/vacances_scolaires/zone_a_2026_2027.json",
               "description": "Besançon, Bordeaux, Clermont-Ferrand, Dijon, Grenoble, Limoges, Lyon, Poitiers",
@@ -37,6 +55,24 @@
         {
           "name": "Schulferien",
           "files": [
+            {
+              "name": "Bayern 2025-2026",
+              "filename": "deutschland/schulferien/bayern_2025_2026.json",
+              "description": "Offizielle Ferientermine des Freistaats Bayern",
+              "count": 6
+            },
+            {
+              "name": "Nordrhein-Westfalen 2025-2026",
+              "filename": "deutschland/schulferien/nrw_2025_2026.json",
+              "description": "Offizielle Ferientermine NRW",
+              "count": 4
+            },
+            {
+              "name": "Baden-Württemberg 2025-2026",
+              "filename": "deutschland/schulferien/baden_wuerttemberg_2025_2026.json",
+              "description": "Offizielle Ferientermine Baden-Württemberg",
+              "count": 5
+            },
             {
               "name": "Bayern 2026-2027",
               "filename": "deutschland/schulferien/bayern_2026_2027.json",
@@ -67,6 +103,12 @@
           "name": "School Holidays",
           "files": [
             {
+              "name": "England 2025-2026",
+              "filename": "england/school_holidays/england_2025_2026.json",
+              "description": "Typical term dates (may vary by local authority)",
+              "count": 6
+            },
+            {
               "name": "England 2026-2027",
               "filename": "england/school_holidays/england_2026_2027.json",
               "description": "Typical term dates (may vary by local authority)",
@@ -84,6 +126,12 @@
           "name": "Vacanze Scolastiche",
           "files": [
             {
+              "name": "Italia 2025-2026",
+              "filename": "italia/vacanze_scolastiche/italia_2025_2026.json",
+              "description": "Date nazionali indicative (variano per regione)",
+              "count": 4
+            },
+            {
               "name": "Italia 2026-2027",
               "filename": "italia/vacanze_scolastiche/italia_2026_2027.json",
               "description": "Date nazionali indicative (variano per regione)",
@@ -100,6 +148,12 @@
         {
           "name": "Vacaciones Escolares",
           "files": [
+            {
+              "name": "España 2025-2026",
+              "filename": "espana/vacaciones_escolares/espana_2025_2026.json",
+              "description": "Fechas nacionales indicativas (varían por comunidad autónoma)",
+              "count": 3
+            },
             {
               "name": "España 2026-2027",
               "filename": "espana/vacaciones_escolares/espana_2026_2027.json",

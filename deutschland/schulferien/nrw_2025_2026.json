@@ -1,0 +1,36 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "Schulferien NRW 2025-2026",
+  "description": "Offizielle Ferientermine Nordrhein-Westfalen",
+  "periodes": [
+    {
+      "libelle": "Herbstferien",
+      "dateDebut": "20251013",
+      "dateFin": "20251025",
+      "couleur": -26624,
+      "chome": false
+    },
+    {
+      "libelle": "Weihnachtsferien",
+      "dateDebut": "20251222",
+      "dateFin": "20260106",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "Osterferien",
+      "dateDebut": "20260330",
+      "dateFin": "20260411",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "Sommerferien",
+      "dateDebut": "20260629",
+      "dateFin": "20260811",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}

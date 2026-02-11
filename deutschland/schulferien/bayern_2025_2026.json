@@ -1,0 +1,50 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "Schulferien Bayern 2025-2026",
+  "description": "Offizielle Ferientermine des Freistaats Bayern",
+  "periodes": [
+    {
+      "libelle": "Herbstferien",
+      "dateDebut": "20251103",
+      "dateFin": "20251107",
+      "couleur": -26624,
+      "chome": false
+    },
+    {
+      "libelle": "Weihnachtsferien",
+      "dateDebut": "20251222",
+      "dateFin": "20260105",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "Faschingsferien",
+      "dateDebut": "20260216",
+      "dateFin": "20260220",
+      "couleur": -14575885,
+      "chome": false
+    },
+    {
+      "libelle": "Osterferien",
+      "dateDebut": "20260330",
+      "dateFin": "20260410",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "Pfingstferien",
+      "dateDebut": "20260526",
+      "dateFin": "20260605",
+      "couleur": -6543440,
+      "chome": false
+    },
+    {
+      "libelle": "Sommerferien",
+      "dateDebut": "20260803",
+      "dateFin": "20260914",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}

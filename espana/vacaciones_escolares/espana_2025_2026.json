@@ -1,0 +1,29 @@
+{
+  "format": "CompteurConges_PeriodesSpeciales",
+  "version": 1,
+  "name": "Vacaciones Escolares España 2025-2026",
+  "description": "Fechas nacionales indicativas (las fechas exactas varían por comunidad autónoma)",
+  "periodes": [
+    {
+      "libelle": "Vacaciones de Navidad",
+      "dateDebut": "20251222",
+      "dateFin": "20260107",
+      "couleur": -769226,
+      "chome": false
+    },
+    {
+      "libelle": "Semana Santa",
+      "dateDebut": "20260402",
+      "dateFin": "20260412",
+      "couleur": -11751600,
+      "chome": false
+    },
+    {
+      "libelle": "Vacaciones de verano",
+      "dateDebut": "20260622",
+      "dateFin": "20260908",
+      "couleur": -16121,
+      "chome": false
+    }
+  ]
+}
