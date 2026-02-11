@@ -1,0 +1,16 @@
+{
+    "files": [
+      {
+        "name": "Vacances Scolaires Zone A 2025-2026",
+        "filename": "zone_a_2025_2026.json",
+        "description": "Calendrier officiel Zone A",
+        "count": 5
+      },
+      {
+        "name": "Vacances Scolaires Zone B 2025-2026",
+        "filename": "zone_b_2025_2026.json",
+        "description": "Calendrier officiel Zone B",
+        "count": 5
+      }
+    ]
+  }
