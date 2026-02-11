@@ -12,19 +12,19 @@
               "name": "Zone A 2026-2027",
               "filename": "france/vacances_scolaires/zone_a_2026_2027.json",
               "description": "Besançon, Bordeaux, Clermont-Ferrand, Dijon, Grenoble, Limoges, Lyon, Poitiers",
-              "count": 6
+              "count": 5
             },
             {
               "name": "Zone B 2026-2027",
               "filename": "france/vacances_scolaires/zone_b_2026_2027.json",
               "description": "Aix-Marseille, Amiens, Lille, Nancy-Metz, Nantes, Nice, Normandie, Orléans-Tours, Reims, Rennes, Strasbourg",
-              "count": 6
+              "count": 5
             },
             {
               "name": "Zone C 2026-2027",
               "filename": "france/vacances_scolaires/zone_c_2026_2027.json",
               "description": "Créteil, Montpellier, Paris, Toulouse, Versailles",
-              "count": 6
+              "count": 5
             }
           ]
         }
